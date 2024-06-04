@@ -36,6 +36,10 @@ img{
 .contact h3{
     margin-bottom: 5px;
 }
+.fa-linkedin-in, .fa-envelope, .fa-phone, .fa-github, .fa-house{
+    font-family: poppice;
+    font-size: 12px;
+}
 
 .education{
     margin-top: 3rem;
@@ -68,11 +72,12 @@ img{
 .right{
     flex-grow: 1;
     padding: 20px;
-    background-color: rgb(230, 230, 250);
+    background-color: antiquewhite;
 }
 .right h1{
     margin: 0;
-    font-size: 50px; 
+    font-size: 50px;
+    background-color: rgb(195, 163, 122);
 }
 .skills, .project{
     margin-top: 30px; 
@@ -85,9 +90,8 @@ img{
     margin-top: 5px;
 }
 
-
-
-.fa-linkedin-in, .fa-envelope, .fa-phone, .fa-github, .fa-house{
-    font-family: poppice;
-    font-size: 12px;
+.volunteering h3{
+    margin-bottom: 5px;
 }
+
+
