@@ -85,3 +85,9 @@ img{
     margin-top: 5px;
 }
 
+
+
+.fa-linkedin-in, .fa-envelope, .fa-phone, .fa-github, .fa-house{
+    font-family: poppice;
+    font-size: 12px;
+}
